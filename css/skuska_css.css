@@ -1,5 +1,7 @@
 body {
     font-size: 28px;
+}
+#body1 {
     background: linear-gradient(to bottom right, red, yellow);
 }
 header {
