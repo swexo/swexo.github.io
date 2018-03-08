@@ -2,7 +2,7 @@ body {
     font-size: 28px;
 }
 #body1 {
-    background: linear-gradient(to bottom right, red, yellow);
+    background: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(255,0,0,1));
 }
 header {
     text-align:center;
