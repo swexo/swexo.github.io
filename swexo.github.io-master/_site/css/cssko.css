@@ -1,0 +1,161 @@
+body {
+    font-size: 28px;
+}
+#body1 {
+    background: linear-gradient(to bottom right, rgba(255,0,0,1) ,rgba(255,0,0,0));
+}
+.header1 {
+    text-align:center;
+}
+#nav1 {
+	padding: 14px 16px;
+	display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+#nav2 {
+	margin-bottom:200px
+}
+
+.doc {
+	font-family:Calibri; 
+	font-size: 20px; 
+	color:black;	
+}
+#footer {
+		
+	display: block;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+	margin-left: 15px;
+	text-decoration: underline;
+	border-radius: 10%;
+}
+#footer-style{
+	background-color: #7add62;
+	opacity: 0.7;
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: sticky;
+    top: 0;
+}
+#footer:hover{
+	background-color:#c0f7b2;
+}
+
+#ul1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+li {
+    float: left;
+}
+#nav1:hover {
+    background-color: #111;
+}
+
+.floating-box {
+    display: inline-block;
+    width: 350px;
+    height: 250px;
+    margin: 10px; 
+    border-radius:10%;
+}
+
+.after-box {
+    border: 3px solid red; 
+}
+#box{
+	margin-left: 260px;
+}
+#poslednybox{
+	margin-left: 200px;
+}
+img{
+	border-radius: 10%;
+}
+.floating-box:hover {
+    transform: scale(1.1); 
+}
+#post1 {
+	list-style-type: none;
+    margin: 20px;
+    padding-right: 200px;
+    overflow: hidden;
+    position: sticky;
+    top: 0;
+	font-family:Calibri; 
+	font-size: 17px; 
+}
+#foto1	{	float: left;
+			height: 250px;
+			width: 200px;
+			margin-top: 50px;
+			margin-left: 22px;
+			margin-right: 22px;
+		}
+		
+.text1	{	text-align: justify;
+			font-family:Calibri; 
+			font-size: 20px; 
+			color:black;	
+			margin-left: 80px;
+			
+		}
+#text2 {
+		padding: 60px;
+}
+
+#text3 {
+	padding-top:40px;
+}
+
+.text4	{	text-align: left;
+			font-family:Calibri; 
+			font-size: 20px; 
+			color:black;	
+			margin: 20px;
+			
+		}
+#artc1	{	margin-bottom: 25px;
+			margin-top: 100px;
+			margin-bottom: 20px;
+		}
+#artc2	{	padding-top: 20px;	
+		}
+#sport{		float: right;
+			width: 280px; 
+			height: 170px; 
+			margin-left: 20px;
+			margin-right: 20px;
+			margin-bottom: 15px;	
+		}
+#prg	{	float: left;
+			height: 150px;
+			width: 200px;
+			margin-top: 50px;
+			margin-left: 22px;
+			margin-right: 25px;
+		}
+#music{		float: right;
+			width: 280px; 
+			height: 150px; 
+			margin-left: 20px;
+			margin-right: 20px;
+			margin-bottom: 50px;	
+		}
+#space {
+		margin: 25px;
+		margin-bottom:200px;
+	
+}
