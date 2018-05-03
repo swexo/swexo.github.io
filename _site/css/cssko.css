@@ -15,11 +15,10 @@ body {
     text-decoration: none;
 }
 #nav2 {
-	margin-bottom:200px;
+	margin-bottom:200px
 }
 
 .doc {
-	text-align: left;
 	font-family:Calibri; 
 	font-size: 20px; 
 	color:black;	
